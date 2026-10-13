@@ -1,7 +1,7 @@
 {
     "name": "redwyre's VRChat Package Listing",
-    "id": "io.github.redwyre.vcc",
-    "url": "https://vrchat-community.github.io/template-package-listing/index.json",
+    "id": "com.redwyre.vcc",
+    "url": "https://redwyre.github.io/vcc/index.json",
     "author": {
         "email": "redwyre@noreply.github.com",
         "name": "redwyre",
