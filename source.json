@@ -1,15 +1,15 @@
 {
     "name": "redwyre's VRChat Package Listing",
     "id": "com.redwyre.vcc",
-    "url": "https://redwyre.github.io/vcc/index.json",
+    "url": "https://redwyre.github.io/vpm/index.json",
     "author": {
         "email": "redwyre@noreply.github.com",
         "name": "redwyre",
         "url": "https://github.com/redwyre"
     },
-    "description": "Example listing of VRChat packages",
+    "description": "Listing of VRChat packages from redwyre",
     "infoLink": {
-        "url": "http://github.com/redwyre/vcc",
+        "url": "http://github.com/redwyre/vpm",
         "text": "View on GitHub"
     },
     "bannerUrl": "banner.png",
